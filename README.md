@@ -10,3 +10,4 @@ Programming Pearls exercises （编程珠玑习题汇总 间断更新）
 
 - [第一章 开篇](Chapter-One.md)
 - [第二章 啊哈！算法](Chapter-Two.md)
+- [第三章 数据决定程序结构](Chapter-Three.md)
