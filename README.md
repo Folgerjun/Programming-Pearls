@@ -8,8 +8,12 @@ Programming Pearls exercises （编程珠玑习题汇总 间断更新）
 
 ---
 
-- [第一章 开篇](Chapter-One.md)
-- [第二章 啊哈！算法](Chapter-Two.md)
-- [第三章 数据决定程序结构](Chapter-Three.md)
-- [第四章 编写正确的程序](Chapter-Four.md)
-- [第五章 编程小事](Chapter-Five.md)
+- 第一部分 基础
+    - [第一章 开篇](Chapter-One.md)
+    - [第二章 啊哈！算法](Chapter-Two.md)
+    - [第三章 数据决定程序结构](Chapter-Three.md)
+    - [第四章 编写正确的程序](Chapter-Four.md)
+    - [第五章 编程小事](Chapter-Five.md)
+- 第二部分 性能
+    + [第六章 程序性能分析](Chapter-Five.md)
+    + [第七章 粗略估算](Chapter-Seven.md)
