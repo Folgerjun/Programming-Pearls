@@ -15,5 +15,5 @@ Programming Pearls exercises （编程珠玑习题汇总 间断更新）
     - [第四章 编写正确的程序](Chapter-Four.md)
     - [第五章 编程小事](Chapter-Five.md)
 - 第二部分 性能
-    + [第六章 程序性能分析](Chapter-Five.md)
+    + [第六章 程序性能分析](Chapter-Six.md)
     + [第七章 粗略估算](Chapter-Seven.md)
