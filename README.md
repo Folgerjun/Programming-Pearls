@@ -17,3 +17,4 @@ Programming Pearls exercises （编程珠玑习题汇总 间断更新）
 - 第二部分 性能
     + [第六章 程序性能分析](Chapter-Six.md)
     + [第七章 粗略估算](Chapter-Seven.md)
+    + [第八章 算法设计技术](Chapter-Eight.md)
