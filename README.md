@@ -23,3 +23,4 @@ Programming Pearls exercises （编程珠玑习题汇总 间断更新）
 - 第三部分 应用
     + [第十一章 排序](Chapter-Eleven.md)
     + [第十二章 取样问题](Chapter-Twelve.md)
+    + [第十三章 搜索](Chapter-Thirteen.md)
